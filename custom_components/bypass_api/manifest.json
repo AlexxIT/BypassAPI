@@ -1,0 +1,13 @@
+{
+  "domain": "bypass_api",
+  "name": "Bypass API",
+  "documentation": "https://github.com/AlexxIT/BypassAPI",
+  "dependencies": [
+    "api"
+  ],
+  "codeowners": [
+    "@AlexxIT"
+  ],
+  "requirements": [
+  ]
+}
